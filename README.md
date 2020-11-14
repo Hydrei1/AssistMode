@@ -73,9 +73,25 @@ roomsob 47.634, segment sob 48.662, il pb 0:49.929
 
 ## Celestial Resort
 
+### start
+
+1:01.846
+
+### huge mess
+
+1:37.58
+
 ### elevator shaft
 
-got a 24.463 segment in prac
+got a 24.191 segment in prac
+
+### presidential suite
+
+37.842
+
+### summary
+
+3:44.859 segment sob
 
 ## Golden Ridge
 
