@@ -9,6 +9,7 @@ Know the tech terminology, otherwise this will make very little sense. Standard 
 
 11/11/20 starting out with ridge because I had the level open
 11/12/20 city now
+11/13/20 back to ridge now im laaaaazy and just gonna drop segment timings probably
 
 ## Forsaken City
 
@@ -70,6 +71,12 @@ Don't get bogged down in city. Like in regular any%, it's a small fraction of th
 
 roomsob 47.634, segment sob 48.662, il pb 0:49.929
 
+## Celestial Resort
+
+### elevator shaft
+
+got a 24.463 segment in prac
+
 ## Golden Ridge
 
 ### start
@@ -97,3 +104,22 @@ roomsob 47.634, segment sob 48.662, il pb 0:49.929
 >Updash. [2.091]
 
 roomsob 31.126, segment 34.952 with a bunch of stupid mistakes.
+
+### shrine
+
+This whole section is spamming dashes except for the last room. Get a pattern that works for you and nail it down, and you physically cannot lose time.
+
+> dash spam
+
+>Should only take two uprights and maybe an updash.
+
+>Oops! All updashes.
+
+>One wavedash, then spam until you're out.
+
+>Wavedash, demohyper like the normal any% strat. Grounded ultras once you're in place as you would for chad ultra, but instead just upright then updash to exit.
+
+segment 12.767
+
+### old trail
+
