@@ -79,7 +79,7 @@ roomsob 47.634, segment sob 48.662, il pb 0:49.929
 
 ### huge mess
 
-1:37.58
+1:35.37
 
 ### elevator shaft
 
@@ -91,7 +91,7 @@ got a 24.191 segment in prac
 
 ### summary
 
-3:44.859 segment sob
+3:39.249 segment sob
 
 ## Golden Ridge
 
@@ -139,3 +139,24 @@ segment 12.767
 
 ### old trail
 
+## Reflection B
+
+### start
+
+segment 32.19
+
+### descent
+
+segment 41.582
+
+### rock bottom
+
+segment 33.779
+
+### reprieve
+
+segment 49.92
+
+### summary
+
+2:37.471 segment sob
